@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-10-08T10:42:57.336041",
+            "datePublished": "2026-10-26T10:43:11.650319",
             "hasPart": [
                 {
                     "@id": "correlation-of-samples-on-peaks.ga"
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/correlation-of-samples-on-peaks",
-            "version": "0.2"
+            "version": "0.3"
         },
         {
             "@id": "#galaxy",
